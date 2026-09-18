@@ -3071,26 +3071,34 @@ https://gh.tryxd.cn/https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/m
 
 
 https://iptv-org.github.io/iptv/languages/zho.m3u,#genre#
-BRTV北京卫视,http://go.bkpcp.top/mg/bjws
+BeijingSatelliteTVHD,http://go.bkpcp.top/mg/bjws
+CCTV1HD,http://69.30.245.50/live/cctv1.m3u8
 CCTV4Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+CCTV4KHD,http://198.204.240.250:82/live/cctv4k.m3u8
+CCTV6HD,http://69.30.245.50/live/cctv6.m3u8
+CCTV13HD,http://go.bkpcp.top/mg/cctv13
+CCTV14HD,http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV16HD,http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV17HD,http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTVBilliards,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
-CCTVCultureofQuality,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+CCTVCultureofQualitySD,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 CCTVNostalgiaTheater,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 CCTVStormFootball,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 CCTVTheFirstTheater,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
-CCTVWomen'sFashion,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
-CCTVWorldGeography,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-CTS(HUA-CHICTS),rtmp://59.124.75.138:1935/sat/tv111
+CCTVWomen'sFashionSD,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+CCTVWorldGeographySD,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+CTS,rtmp://59.124.75.138:1935/sat/tv111
 GuangzhouTV,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 HarbinMovieChannel,https://stream.hrbtv.net/yspd/playlist.m3u8
 HunanTV(2160p),http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 LanzhouComprehensiveNewsChannel,https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
+VoATVChina,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 
 
 https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
 BattlestarGalactica,https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8
-NewKMOVIES,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus
-NewKPOP,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
+NewK-POP,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
+NewK.MOVIES,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus
 SBNTV,https://watch.sardius.media/channels/Ea867F3e1F56B06/site_c5402f016A/live.m3u8
 
 
@@ -3103,7 +3111,6 @@ https://fm1077.serv00.net/SmartTV.m3u,#genre#
 http://rihou.cc:555/gggg.nzk,#genre#
 ➡️抖舞陪看⬅️,http://rihou.cc:555/tv/[mv]抖舞陪看
 ⬇️港乐翻唱⬇️,http://rihou.cc:555/tv/t
-20:15北京国安🆚浦项铁人,http://rihou.cc:555/tv/v
 CCTV1咪咕,http://rihou.cc:555/tv/[mg]CCTV-01
 CCTV2咪咕,http://rihou.cc:555/tv/[mg]CCTV-02
 CCTV3咪咕,http://rihou.cc:555/tv/[mg]CCTV-03
@@ -3141,6 +3148,7 @@ CGTN-法咪咕,http://rihou.cc:555/tv/[mg]CGTN-法
 陕西卫视咪咕,http://rihou.cc:555/tv/[mg]陕西卫视
 兵团卫视咪咕,http://rihou.cc:555/tv/[mg]兵团卫视
 黑龙江视咪咕,http://rihou.cc:555/tv/[mg]黑龙江视
+⬇️特闽新闻⬇️,http://rihou.cc:555/tv/v
 Plus综合欣赏,http://rihou.cc:555/tv/[Pd]Plus综合
 全运开幕翡翠,http://rihou.cc:555/tv/[mv]开幕翡翠
 全运开幕咪咕,http://rihou.cc:555/tv/[mv]开幕咪咕
@@ -3185,6 +3193,14 @@ group-title="数字"_zz-definition="HD",重温经典
 
 
 https://m3u.ibert.me/txt/y_g.txt,#genre#
+「虎牙」CS_2,https://cdn.ttvb.eu.org/huya/483917
+音乐速递「音乐」,https://cdn.ttvb.eu.org/huya/19439762
+挨饿德•1「其他」,https://cdn.ttvb.eu.org/huya/20985858
+挨饿德•2「其他」,https://cdn.ttvb.eu.org/huya/17693860
+互扇巴掌大赛「其他」,https://cdn.ttvb.eu.org/huya/20072873
+荒野求生「其他」,https://cdn.ttvb.eu.org/huya/593667
+野行者「其他」,https://cdn.ttvb.eu.org/huya/20072663
+跳舞「其他」,https://cdn.ttvb.eu.org/huya/24634408
 
 
 http://xhztv.top/v6.txt,#genre#
@@ -3246,24 +3262,18 @@ https://iptv.b2og.com/txt/fmml_ipv6.txt,#genre#
 
 https://m3u.ibert.me/txt/fmml_dv6.txt,#genre#
 https://m3u.ibert.me/txt/o_cn.txt,#genre#
-VOA美国之音_,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 Xinjiang_TV_2,http://110.153.180.106:55555/out_3/index.m3u8
 Xinjiang_TV_3,http://110.153.180.106:55555/out_2/index.m3u8
-CCTV13_,http://go.bkpcp.top/mg/cctv13
-CCTV14_,http://74.91.26.218:82/live/cctv14hd.m3u8
-CCTV1_,http://69.30.245.50/live/cctv1.m3u8
-CCTV4K_,http://198.204.240.250:82/live/cctv4k.m3u8
+CCTV13_,http://74.91.26.218:82/live/cctv13hd.m3u8
+CCTV1_,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV2_,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV3_,http://74.91.26.218:82/live/cctv3hd.m3u8
-CCTV16_,http://74.91.26.218:82/live/cctv16hd.m3u8
-CCTV6_,http://69.30.245.50/live/cctv6.m3u8
 CCTV7_,http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV10_,http://74.91.26.218:82/live/cctv10hd.m3u8
 CCTV8_,http://74.91.26.218:82/live/cctv8hd.m3u8
 CCTV11_,http://74.91.26.218:82/live/cctv11hd.m3u8
 CCTV15_,https://xykt-fix.github.io/play/a02e/index.m3u8
 CCTV12_,http://74.91.26.218:82/live/cctv12hd.m3u8
-CCTV17_,http://74.91.26.218:82/live/cctv17hd.m3u8
 
 
 https://m3u.ibert.me/txt/j_iptv.txt,#genre#
