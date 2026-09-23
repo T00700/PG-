@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260923 06:50,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+20260924 06:50,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
 
 央视频道,#genre#
@@ -265,7 +265,6 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 浙江卫视,http://154.36.187.125/histar5.php?id=117
 浙江卫视,http://154.36.187.125/histar5.php?id=zhejiang
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226336/index.m3u8
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
@@ -745,7 +744,6 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 电影_推荐,https://live.metshop.top/huya/11602041
 电影_变形金刚,https://live.metshop.top/huya/21059596
 动作影院,rtp://239.3.1.92:4120
-万合出品,https://www.goodiptv.club/douyu/9220456
 
 
 电视剧频道,#genre#
@@ -788,11 +786,6 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 
 综艺频道,#genre#
 娱乐扒叔轮播,http://8.155.43.98:35455/douyu/9624581
-贾玲小品,https://www.goodiptv.club/douyu/10419541
-宋小宝小品,https://www.goodiptv.club/douyu/9817729
-开心麻花小品,https://www.goodiptv.club/douyu/10153463
-赵本山小品,https://www.goodiptv.club/douyu/9817716
-许君聪小品,https://www.goodiptv.club/douyu/10419558
 
 
 NewTV,#genre#
@@ -1469,6 +1462,8 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 福建新闻,http://8.138.7.223/tv/fjtv.php?id=13
 福建新闻,http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
 福建海峡卫视,http://38.64.72.148/hls/modn/list/4009/playlist.m3u8
+福建海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
+福建海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
 福建电视剧,http://8.138.7.223/tv/fjtv.php?id=7
 福建经济,http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
 龙岩公共频道,http://live.lytv.net.cn/ggpd/sd/live.m3u8?zfud
