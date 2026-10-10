@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz"
-#EXTINF:-1  tvg-name="20261010 07:54" tvg-logo="https://epg.112114.free.hr/logo/20261010 07:54.png"  group-title="更新时间",20261010 07:54
+#EXTINF:-1  tvg-name="20261011 07:22" tvg-logo="https://epg.112114.free.hr/logo/20261011 07:22.png"  group-title="更新时间",20261011 07:22
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://epg.112114.free.hr/logo/CCTV1.png"  group-title="央视频道",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -4299,8 +4299,6 @@ http://r.jdshipin.com/OeHMu
 http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1  tvg-name="龙华电影" tvg-logo="https://epg.112114.free.hr/logo/龙华电影.png"  group-title="电影频道",龙华电影
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-#EXTINF:-1  tvg-name="周星星" tvg-logo="https://epg.112114.free.hr/logo/周星星.png"  group-title="电影频道",周星星
-https://www.goodiptv.club/huya/11342412
 #EXTINF:-1  tvg-name="周星驰" tvg-logo="https://epg.112114.free.hr/logo/周星驰.png"  group-title="电影频道",周星驰
 http://cfss.cc/cdn/hy/11342412.flv
 #EXTINF:-1  tvg-name="李连杰" tvg-logo="https://epg.112114.free.hr/logo/李连杰.png"  group-title="电影频道",李连杰
@@ -4929,8 +4927,6 @@ https://live.metshop.top/huya/15870999
 https://live.metshop.top/huya/16741179
 #EXTINF:-1  tvg-name="解说_扁豆看电影" tvg-logo="https://epg.112114.free.hr/logo/解说_扁豆看电影.png"  group-title="解说频道",解说_扁豆看电影
 https://live.metshop.top/huya/16028551
-#EXTINF:-1  tvg-name="解说_扁豆看电影" tvg-logo="https://epg.112114.free.hr/logo/解说_扁豆看电影.png"  group-title="解说频道",解说_扁豆看电影
-https://www.goodiptv.club/huya/16028551
 #EXTINF:-1  tvg-name="解说_斌哥漫说" tvg-logo="https://epg.112114.free.hr/logo/解说_斌哥漫说.png"  group-title="解说频道",解说_斌哥漫说
 https://live.metshop.top/huya/18632116
 #EXTINF:-1  tvg-name="解说_涵哥评电影" tvg-logo="https://epg.112114.free.hr/logo/解说_涵哥评电影.png"  group-title="解说频道",解说_涵哥评电影
@@ -4967,8 +4963,6 @@ https://live.metshop.top/huya/16615910
 https://live.metshop.top/huya/24396360
 #EXTINF:-1  tvg-name="解说_默爷侃电影" tvg-logo="https://epg.112114.free.hr/logo/解说_默爷侃电影.png"  group-title="解说频道",解说_默爷侃电影
 https://live.metshop.top/huya/17204307
-#EXTINF:-1  tvg-name="阿斗归来了" tvg-logo="https://epg.112114.free.hr/logo/阿斗归来了.png"  group-title="解说频道",阿斗归来了
-https://www.goodiptv.club/huya/13303478
 #EXTINF:-1  tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.free.hr/logo/嘉佳卡通.png"  group-title="儿童",嘉佳卡通
 http://222.86.13.51:9999/rtp/235.254.198.110:1716
 #EXTINF:-1  tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.free.hr/logo/嘉佳卡通.png"  group-title="儿童",嘉佳卡通
@@ -5143,6 +5137,8 @@ https://cdn.ttvb.eu.org/huya/11342413
 https://cdn.ttvb.eu.org/douyu/1997723
 #EXTINF:-1  tvg-name="新动漫" tvg-logo="https://epg.112114.free.hr/logo/新动漫.png"  group-title="儿童",新动漫
 http://live.aishang.ctlcdn.com/00000110240321_1/playlist.m3u8?CONTENTID=00000110240321_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1  tvg-name="CNN" tvg-logo="https://epg.112114.free.hr/logo/CNN.png"  group-title="国际台",CNN
+https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8
 #EXTINF:-1  tvg-name="新加坡" tvg-logo="https://epg.112114.free.hr/logo/新加坡.png"  group-title="国际台",新加坡
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 #EXTINF:-1  tvg-name="人与自然" tvg-logo="https://epg.112114.free.hr/logo/人与自然.png"  group-title="纪录片",人与自然
